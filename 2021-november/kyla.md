@@ -8,6 +8,8 @@ We can make words **bold** or *italic*.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
+### Thanksgiving prep shopping list: 
+
 1. turkey
 2. potatoes
 3. mushrooms
