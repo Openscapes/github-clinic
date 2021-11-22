@@ -6,8 +6,6 @@ We can make words **bold** or *italic*.
 
 **bold**
 
-*italics*
-
 ## We can make headers.
 
 ### A header that's a bit smaller
