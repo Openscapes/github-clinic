@@ -1,4 +1,4 @@
-# github-clinic WRITE SOMETHING
+# github-clinic
 GitHub Clinic (stand-alone)
 
 I can add edits here. 
