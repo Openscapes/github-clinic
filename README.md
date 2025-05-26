@@ -9,7 +9,7 @@ GitHub is a powerful tool for collaborative coding with version control, but her
 
 Open source lesson materials: [GitHub strategies for publication and project management](https://openscapes.github.io/series/core-lessons/github/).
 
-<img src="horst-champions-trailhead.png" align="right" width="450">
+<img src="github-friends.png">
 
 
 ## More about Openscapes
