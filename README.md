@@ -9,7 +9,11 @@ GitHub is a powerful tool for collaborative coding with version control, but her
 
 Open source lesson materials: [GitHub strategies for publication and project management](https://openscapes.github.io/series/core-lessons/github/).
 
-<img src="github-friends.png">
+## Why GitHub?
+
+<img src="github_friends.png" align="center" width="80%">
+
+Illustration from "GitHub for supporting, reusing, contributing, and failing safely", by [Lowndes & Horst, 2022](https://openscapes.org/blog/2022-05-27-github-illustrated-series/). Quote from "Excuse me, do you have a moment to talk about version control?", by [Bryan 2017](https://doi.org/10.7287/peerj.preprints.3159v2).
 
 
 ## More about Openscapes
