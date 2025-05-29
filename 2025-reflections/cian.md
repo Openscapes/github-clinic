@@ -6,6 +6,8 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 ## Task 1: Commit an edit from the browser
 
+![noun-timer-7511912-0088B5](https://github.com/user-attachments/assets/bef220fa-44fe-4762-b240-08c7e13a96d2)
+
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
 Next, make an edit to the text in this file. One idea is to fix this TYPO. 
