@@ -6,7 +6,11 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 ## Task 1: Commit an edit from the browser
 
-![noun-timer-7511912-0088B5](https://github.com/user-attachments/assets/bef220fa-44fe-4762-b240-08c7e13a96d2)
+> [!WARNING]
+> Tested dragging and dropping animage file directly into file in edit mode. It creates a permanent URL for the image, outide of repo and outside the user account. 
+
+![noun-agenda-1082756-cropped](https://github.com/user-attachments/assets/b07d54bb-71f7-4ec2-890c-b6ec33917375)
+
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
