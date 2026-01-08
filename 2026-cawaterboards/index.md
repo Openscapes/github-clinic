@@ -16,3 +16,22 @@ Presentations currently scheduled include:
     Feb 10:
         Power BItes Lunch & Learn
         Climate Change Roundtable
+      Feb 11:
+USTs Roundtable – Local Oversight Program Meeting
+Division of Water Quality All-Staff Meeting
+Feb 19: Integrated Report Roundtable
+Feb 24: Office of Sustainable Groundwater Management Program Meeting
+Feb 26: Division of Water Rights All-Staff Meeting
+Mar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable
+Mar 12:
+Stormwater Roundtable
+Cannabis Cultivation Program Roundtable
+Waste Discharge Requirements Program Roundtable
+Mar 24: Environmental Justice Roundtable
+Apr 7: Enforcement Roundtable
+Apr 9: Joint Total Maximum Daily Load (TMDL) & Nonpoint Source Roundtable
+Apr 21:
+Site Cleanup / DoD Roundtable
+Basin Planning Roundtable
+Apr 22: Recycled Water Roundtable
+May 13: GIS & Data Science Roundtable
